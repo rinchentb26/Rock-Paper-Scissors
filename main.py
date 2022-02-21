@@ -45,7 +45,7 @@ while(runProgram):
 
     # generate random no b/w 0 and 2 for comp's choice
     ai = random.randint(0, 2)
-    print(f"Computer Chose {ai}")
+    print(f"Computer Chose")
     print(art[ai])
 
     # print results
